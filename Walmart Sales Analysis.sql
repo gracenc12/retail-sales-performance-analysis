@@ -131,10 +131,32 @@ ORDER BY revenue DESC;
 
 SELECT 
     branch,
+    city,
     SUM(total_amount) AS revenue
 FROM
     walmart
-GROUP BY branch
+GROUP BY branch, city
 ORDER BY revenue DESC;
 
 # WALM009 is the branch contribute the most to the revenue
+
+# --- Tier Sales Performance Analysis by Branch
+SELECT
+    branch,
+    revenue,
+    CASE
+        WHEN performance_tier = 1 THEN 'High'
+        WHEN performance_tier = 2 THEN 'Medium'
+        ELSE 'Low'
+    END AS performance_level
+FROM (
+    SELECT
+        branch,
+        SUM(total_amount) AS revenue,
+        NTILE(3) OVER (ORDER BY SUM(total_amount) DESC) AS performance_tier
+    FROM walmart
+    GROUP BY branch
+) tier_performance
+ORDER BY revenue DESC;
+
+# Performance Level of Each Branch by Sales is categorized into 3 levels: 'Anchor Revenue'(High), 'Growth Opportunity' (Medium) and 'Efficiency & Optimization Focus' (Low)
