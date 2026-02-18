@@ -1,5 +1,4 @@
 # ----------------------------  Walmart Sales Analysis with SQL ---------------------------
-# --- Dataset: https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets ---
 
 USE walmart_db;
 
@@ -12,6 +11,9 @@ SELECT
     *
 FROM
     walmart;
+
+# A. Customer Payment Behavior/Preference
+# What payment methods are used by customers based on transactions?
 
 SELECT 
     payment_method,
