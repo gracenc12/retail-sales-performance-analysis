@@ -31,7 +31,7 @@ How can Walmart optimize sales performance, profitability, and operational effic
 
 * Analyze customer payment preferences
 * Evaluate product category performance & profitability
-* Identify demand patterns by day and time
+* Identify sales volume patterns by day and time
 * Measure revenue contribution across branches and cities
 * Provide strategic, data-driven recommendations
 
