@@ -37,18 +37,6 @@ How can Walmart optimize sales performance, profitability, and operational effic
 
 ---
 
-## Conclusion & Recommendations
-
-| Strategic Focus             | Recommendation                                                                                                                      |
-| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Customer Strategy           | Utilize payment method and category insights to design targeted promotions and improve customer engagement.                         |
-| Operational Efficiency      | Align staffing and operational planning with branch-level peak days and peak time periods.                                          |
-| Revenue Growth              | Prioritize resources and marketing investment on high-performing branches and categories while improving underperforming locations. |
-| Product Strategy            | Use top-performing categories as anchor products to support cross-selling and optimize inventory decisions.                         |
-| Data-Driven Decision Making | Apply branch-level analytics instead of one-size-fits-all strategies to accommodate local customer behavior differences.            |
-
----
-
 ## Key Takeaway
 
 Transactional data reveals significant differences in customer behavior and performance across branches. A localized, data-driven strategy enables Walmart to improve operational efficiency, maximize profitability, and support sustainable revenue growth.
