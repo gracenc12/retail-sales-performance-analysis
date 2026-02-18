@@ -1,4 +1,4 @@
-# Walmart Sales Performance Analysis
+# Walmart Retail Sales Performance Analysis
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
@@ -9,7 +9,7 @@ Retail Sales Performance Data Analysis with Python for the Data Cleaning and SQL
 
 ---
 
-Analyzing Walmart transactional sales data to optimize sales performance, profitability, and operational efficiency across branches.
+Analyzing Retail transactional sales data to optimize sales performance, profitability, and operational efficiency across branches.
 
 Data Source: [Dataset Source](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets)
 
