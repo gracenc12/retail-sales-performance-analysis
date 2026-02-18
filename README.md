@@ -4,8 +4,6 @@ Data Source: [Dataset Source](https://www.kaggle.com/datasets/najir0123/walmart-
 
 Retail Sales Performance Data Analysis with Python for the Data Cleaning and SQL for the Data Analysis
 
-Siap 👍 ini versi README yang sudah **langsung ke Conclusion & Recommendations** tanpa bagian key insights — formatnya lebih clean, terlihat matang, dan sering dipakai di portfolio Data Analyst yang kuat.
-
 ---
 
 # Walmart Retail Sales Performance Analysis
