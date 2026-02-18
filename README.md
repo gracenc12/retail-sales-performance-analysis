@@ -17,13 +17,13 @@ Data Source: [Dataset Source](https://www.kaggle.com/datasets/najir0123/walmart-
 
 ## Business Understanding
 
-Walmart is a retail company. Walmart faces challenges in understanding sales performance across cities, branch, product categories, and operational periods. This project leverages transactional data to analyze customer behavior, demand patterns, and branch performance to support data-driven business decisions.
+Walmart is a retail company. Walmart faces challenges in understanding sales performance across cities, branch, product categories, and operational periods. This project leverages transactional data to analyze customer behavior, sales patterns, and branch performance to support data-driven business decisions.
 
 ---
 
 ## Problem Statement
 
-How can Walmart optimize sales performance, profitability, and operational efficiency across branches by leveraging transactional data to better understand customer behavior, payment preferences, category performance, and demand patterns?
+How can Walmart optimize sales performance, profitability, and operational efficiency across branches by leveraging transactional data to better understand customer behavior, payment preferences, category performance, and sales patterns?
 
 ---
 
