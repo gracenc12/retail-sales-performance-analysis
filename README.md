@@ -57,7 +57,7 @@ How can Walmart optimize sales performance, profitability, and operational effic
 
 ## Key Takeaway
 
-Transactional data reveals significant differences in customer behavior and performance across branches. A localized, data-driven strategy enables Walmart to improve operational efficiency, maximize profitability, and support sustainable revenue growth.
+Transactional data reveals significant differences in customer behavior and performance across branches. A localized, data-driven strategy can support Walmart Retail to improve operational efficiency, maximize profitability, and support sustainable revenue growth.
 
 ---
 
