@@ -3,18 +3,22 @@
 
 USE walmart_db;
 
+# Count the data in databases
 SELECT 
     COUNT(*)
 FROM
     walmart;
 
+# Explore all the columns in the database
 SELECT 
     *
 FROM
     walmart;
 
+# Ad Hoc Analytics
+	
 # A. Customer Payment Behavior/Preference
-# What payment methods are used by customers based on transactions?
+# --- Question 1: What payment methods are used by customers based on transactions?
 
 SELECT 
     payment_method,
