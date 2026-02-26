@@ -1,4 +1,4 @@
-# ----------------------------  Retail Sales Performance Analysis with SQL ---------------------------
+# ----------------------------  Retail Sales Performance Analysis Project with SQL ---------------------------
 # --- By: Grace Natalie Catherine
 
 USE walmart_db;
